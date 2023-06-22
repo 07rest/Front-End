@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESTSTORE</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://www.dafont.com/pt/code.font">
+</head>
+<body>
+    <header>
+           <img class="logo" src="logo.png" width="60px" height="60px"> 
+           <p class="titulo_principal"><strong> RESTSTORE - SKATESHOP</strong></p>
+    </header>
+    <main>
+        <nav>
+            <section class="pags">
+                <a id="inicio" href="">Inicio</a>
+                <a id="produtos" href="">Produtos</a>
+                <a id="skates" href="">Skates</a>
+                <a id="acessorios" href="">Acessorios</a>
+            </section>
+        </nav>
+            <img class="ft_principal" src="imgprincipal.jpeg" width="100%">
+        <section class="formulario"></section>
+        <section class="formulario" id="texto_principal">
+            <p class="text_inicial"><strong>Seja Bem Vindo!</strong><br><br> A RestStore apresenta uma variedade de peças e acessorios para sua boa esperiencia no skate<br><br>Faça o seu cadastro ao lado!</p>
+        </section>
+        <section class="formulario" id="formulario_principal"></section>
+            <fieldset>
+            <form>
+                <label for="nomesobrenome">Nome e sobrenome</label>
+                <br>
+                <input type="text" name="nome" id="nomesobrenome" class="input-padrao" placeholder="Seu nome e sobrenome" required>
+                <br>
+                <label for="email" name="email" id="email" class="input-padrao" placeholder="seuemail@dominio.com" required>
+                <label for="telefone">Telefone</label>
+                <br>
+                <input type="tel" name="telefone" id="telefone" class="input-padrao" placeholder="(XX) XXXXX-XXXX" required>
+            </form>
+            </fieldset>
+        </section>
+        </section>
+    </main>
+    <footer>
+        <p class="copyright">&copy; Renan & Kelwin</p>
+    </footer>
+</body>
+</html>
