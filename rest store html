@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESTSTORE</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="cabecalho">
+     <p class="tituloprincipal"> RESTSTORE </p>
+    <img class="logo" src="logo.jpg.png" height="120px" width="120px"> 
+     
+    </div>
+
+    <div class="conteudo">
+    <img class="imagemprincipal" src="imgprincipal.jpg.jpg" height="400px" width="1430px" >
+    afhoasdu
+
+    </div>
+
+    <div class="rodape">
+
+    </div>
+</body>
+</html>
